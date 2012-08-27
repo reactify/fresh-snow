@@ -263,9 +263,9 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GENERATE_PKGINFO_FILE = YES;
 				HEADER_SEARCH_PATHS = (
-					"../../Include/vstsdk2.4/**",
-					../../JuceLibraryCode,
+					"../../../JUCE/**",
 					"$(inherited)",
+					"../../../ZenGarden/**",
 				);
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Users/TomRushmore/Desktop/vstte/;
@@ -300,9 +300,9 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GENERATE_PKGINFO_FILE = YES;
 				HEADER_SEARCH_PATHS = (
-					"../../Include/vstsdk2.4/**",
-					../../JuceLibraryCode,
+					"../../../JUCE/**",
 					"$(inherited)",
+					"../../../ZenGarden/**",
 				);
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Users/TomRushmore/Desktop/vstte/;
