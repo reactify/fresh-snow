@@ -372,7 +372,7 @@
 				);
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Users/TomRushmore/Desktop/vstte/;
-				LIBRARY_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				LIBRARY_STYLE = Bundle;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				MACOSX_DEPLOYMENT_TARGET_ppc = 10.4;
@@ -410,7 +410,7 @@
 				);
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Users/TomRushmore/Desktop/vstte/;
-				LIBRARY_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				LIBRARY_STYLE = Bundle;
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				MACOSX_DEPLOYMENT_TARGET_ppc = 10.4;
