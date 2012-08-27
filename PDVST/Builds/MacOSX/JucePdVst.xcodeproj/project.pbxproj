@@ -38,6 +38,8 @@
 		A5EC78ABB1601D0FBCFCE23D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
 		A872EC1FC8ACB96D125C58D4 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
 		C8BA92FC06F727B486B115FE /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		D1804C5315EC005D00A35272 /* AppConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppConfig.h; sourceTree = "<group>"; };
+		D1804C6015EC008E00A35272 /* JuceHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JuceHeader.h; sourceTree = "<group>"; };
 		D47DE5AABF29F340F6D20109 /* DiscRecording.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DiscRecording.framework; path = System/Library/Frameworks/DiscRecording.framework; sourceTree = SDKROOT; };
 		D8075EFD2B6BDCEA9FED38D2 /* PluginProcessor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = PluginProcessor.cpp; path = ../../Source/PluginProcessor.cpp; sourceTree = SOURCE_ROOT; };
 		DE0371CBC3F6B7D8E05F1C30 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
@@ -110,8 +112,10 @@
 			children = (
 				D8075EFD2B6BDCEA9FED38D2 /* PluginProcessor.cpp */,
 				8CB397AD591F12C847B78BBF /* PluginProcessor.h */,
-				FA84760280389B79E86A37DF /* PluginEditor.cpp */,
 				DF8A5D32F493BA1C556A2399 /* PluginEditor.h */,
+				FA84760280389B79E86A37DF /* PluginEditor.cpp */,
+				D1804C5315EC005D00A35272 /* AppConfig.h */,
+				D1804C6015EC008E00A35272 /* JuceHeader.h */,
 			);
 			name = Source;
 			sourceTree = "<group>";

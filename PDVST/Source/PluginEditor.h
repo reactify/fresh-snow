@@ -11,7 +11,7 @@
 #ifndef __PLUGINEDITOR_H_3A4DDF96__
 #define __PLUGINEDITOR_H_3A4DDF96__
 
-#include "../JuceLibraryCode/JuceHeader.h"
+#include "JuceHeader.h"
 #include "PluginProcessor.h"
 
 

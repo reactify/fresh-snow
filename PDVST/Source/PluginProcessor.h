@@ -11,7 +11,7 @@
 #ifndef __PLUGINPROCESSOR_H_363C2C3D__
 #define __PLUGINPROCESSOR_H_363C2C3D__
 
-#include "../JuceLibraryCode/JuceHeader.h"
+#include "JuceHeader.h"
 #include "ZenGarden.h"
 #include <fstream.h>
 #include <string.h>
