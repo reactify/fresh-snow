@@ -1,0 +1,6 @@
+[submodule "ZenGarden"]
+	path = ZenGarden
+	url = https://github.com/section6/ZenGarden.git
+[submodule "JUCE"]
+	path = JUCE
+	url = https://github.com/julianstorer/JUCE.git
